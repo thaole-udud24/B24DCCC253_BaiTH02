@@ -1,0 +1,59 @@
+/* === Modern Pastel Weather Dashboard Design System === */
+:root {
+  /* Surface & Base Colors */
+  --bg-page: #EEF4FA;
+  --bg-dashboard: #F7FAFD;
+  --surface-card: #FFFFFF;
+  --surface-card-hover: #FCFDFF;
+  --surface-subtle: #F0F5FA;
+  --surface-pill: #EBF3FB;
+
+  /* Primary Accent & Pastels */
+  --pastel-blue-dark: #2F80ED;
+  --pastel-blue: #58A6FF;
+  --pastel-blue-light: #DCEEFE;
+  --pastel-blue-bg: #EAF4FE;
+
+  --pastel-amber: #FCA338;
+  --pastel-amber-light: #FFEAD0;
+  --pastel-yellow: #FFD452;
+
+  --pastel-mint: #3EBC82;
+  --pastel-mint-light: #DDF6EA;
+
+  --pastel-lavender: #887BFC;
+  --pastel-lavender-light: #ECE9FE;
+
+  --pastel-peach: #FF7B60;
+  --pastel-peach-light: #FEE8E4;
+
+  /* Text & Neutral Hierarchy */
+  --text-main: #1C2B3E;
+  --text-secondary: #5F748D;
+  --text-muted: #8E9FAF;
+  --border-subtle: #E4EDF5;
+  --border-focus: #58A6FF;
+
+  /* Accents */
+  --star-color: #F8A528;
+  --error-color: #E65A65;
+
+  /* Border Radii */
+  --radius-xs: 8px;
+  --radius-sm: 12px;
+  --radius-md: 18px;
+  --radius-lg: 24px;
+  --radius-xl: 30px;
+  --radius-full: 9999px;
+
+  /* Shadows */
+  --shadow-subtle: 0 4px 16px rgba(54, 94, 140, 0.04);
+  --shadow-card: 0 8px 24px rgba(45, 85, 130, 0.06);
+  --shadow-float: 0 16px 36px rgba(45, 85, 130, 0.10);
+  --shadow-glow-blue: 0 12px 28px rgba(47, 128, 237, 0.25);
+
+  /* Transitions */
+  --trans-fast: 160ms cubic-bezier(0.16, 1, 0.3, 1);
+  --trans-base: 250ms cubic-bezier(0.16, 1, 0.3, 1);
+  --trans-spring: 350ms cubic-bezier(0.34, 1.56, 0.64, 1);
+}
